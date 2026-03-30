@@ -1,0 +1,14 @@
+{
+  "datasets": [
+    {
+      "name": "DatasetA",
+      "images_dir": "1_Datasets/0_TrainingDatasets/2_FilteredDatasets/11_UBID-ER-val/valid/images",
+      "labels_dir": "1_Datasets/0_TrainingDatasets/2_FilteredDatasets/11_UBID-ER-val/valid/labels"
+    },
+    {
+      "name": "DatasetB",
+      "images_dir": "1_Datasets/0_TrainingDatasets/2_FilteredDatasets/8.0_CBID-ER-Full/all/images",
+      "labels_dir": "1_Datasets/0_TrainingDatasets/2_FilteredDatasets/8.0_CBID-ER-Full/all/labels"
+    }
+  ]
+}

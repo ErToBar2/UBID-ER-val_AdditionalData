@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Large/generated artifacts
+output/
+
+# Local data snapshots (do not publish by default)
+labels/
